@@ -1,5 +1,39 @@
 # 💫 About Me:
-### About Me 👨‍💻<br><br>Hello! I'm a passionate **Software Engineer**, **Adjunct Professor**, and **Startup CTO**, combining over a decade of experience in software development, data science, and teaching. My journey spans impactful projects, innovative startups, and academic achievements. Here's a little more about me:<br><br>🔹 **Professional Background**  <br>- **Oracle Software Engineer II:** Currently shaping innovative solutions in large-scale enterprise systems.  <br>- **Former Software Engineer at Cerner Corporation:** Enhanced healthcare technology using AI and ML, optimized data collection frameworks, and integrated Agile methodologies.  <br>- **Developer of Olympus:** A comprehensive medical operations tool for hospitals, designed from both frontend and backend perspectives.  <br><br>🔹 **Entrepreneurial Pursuits**  <br>- **CTO at StarterYou Inc.:** Building a dynamic platform to connect high school students with part-time job opportunities. Leading the design, implementation, and scaling of CRUD-based, containerized architecture with MongoDB and AWS.<br><br>🔹 **Academic Contributions**  <br>- **Adjunct Professor at Sacred Heart University:** Teaching courses in MongoDB, Data Science Architecture, Python, and Big Data.  <br>- **Published Researcher:** Co-authored impactful papers like *"Analyzing the Global Population's Response to the COVID-19 Vaccine Rollout Using LDA Topic Modeling"* and *"The Gambit of De-dollarization: Unveiling New Currency Frontiers Through NLP."*  <br>- Mentor and guide for student-led research projects, fostering innovation and critical thinking.<br><br>🔹 **Technical Expertise**  <br>- **Programming Languages:** Python, R, SQL, Kotlin, TypeScript, JavaScript.  <br>- **Frameworks and Tools:** React, Vite, Docker, AWS, MongoDB.  <br>- **Specialized Skills:** Data Science, Machine Learning, Web Development, and Performance Analysis.  <br><br>🔹 **Highlighted Projects**  <br>- **AI-Powered Liquor Counter Sales Tracker:** Leveraging computer vision for retail optimization.  <br>- **Grocery Shelf Management System:** Using AI to enhance inventory management.  <br>- Built websites like *starteryou.com* and *nikshepkulli.com* to empower students and professionals.<br><br>🔹 **Passion and Vision**  <br>I'm driven by the intersection of **technology, education, and business**. From building startups to teaching students, my focus remains on leveraging software engineering and data science to solve real-world challenges and drive meaningful impact.  <br><br>Let’s connect and build something amazing together! 🚀<br>
+<div style="text-align: justify;">
+
+### About Me 👨‍💻
+
+Hello! I'm a passionate **Software Engineer**, **Adjunct Professor**, and **Startup CTO**, combining over a decade of experience in software development, data science, and teaching. My journey spans impactful projects, innovative startups, and academic achievements. Here's a little more about me:
+
+🔹 **Professional Background**  
+- **Oracle Software Engineer II:** Currently shaping innovative solutions in large-scale enterprise systems.  
+- **Former Software Engineer at Cerner Corporation:** Enhanced healthcare technology using AI and ML, optimized data collection frameworks, and integrated Agile methodologies.  
+- **Developer of Olympus:** A comprehensive medical operations tool for hospitals, designed from both frontend and backend perspectives.  
+
+🔹 **Entrepreneurial Pursuits**  
+- **CTO at StarterYou Inc.:** Building a dynamic platform to connect high school students with part-time job opportunities. Leading the design, implementation, and scaling of CRUD-based, containerized architecture with MongoDB and AWS.
+
+🔹 **Academic Contributions**  
+- **Adjunct Professor at Sacred Heart University:** Teaching courses in MongoDB, Data Science Architecture, Python, and Big Data.  
+- **Published Researcher:** Co-authored impactful papers like *"Analyzing the Global Population's Response to the COVID-19 Vaccine Rollout Using LDA Topic Modeling"* and *"The Gambit of De-dollarization: Unveiling New Currency Frontiers Through NLP."*  
+- Mentor and guide for student-led research projects, fostering innovation and critical thinking.
+
+🔹 **Technical Expertise**  
+- **Programming Languages:** Python, R, SQL, Kotlin, TypeScript, JavaScript.  
+- **Frameworks and Tools:** React, Vite, Docker, AWS, MongoDB.  
+- **Specialized Skills:** Data Science, Machine Learning, Web Development, and Performance Analysis.  
+
+🔹 **Highlighted Projects**  
+- **AI-Powered Liquor Counter Sales Tracker:** Leveraging computer vision for retail optimization.  
+- **Grocery Shelf Management System:** Using AI to enhance inventory management.  
+- Built websites like *starteryou.com* and *nikshepkulli.com* to empower students and professionals.
+
+🔹 **Passion and Vision**  
+I'm driven by the intersection of **technology, education, and business**. From building startups to teaching students, my focus remains on leveraging software engineering and data science to solve real-world challenges and drive meaningful impact.  
+
+Let's connect and build something amazing together! 🚀
+
+</div>
 
 
 ## 🌐 Socials:
